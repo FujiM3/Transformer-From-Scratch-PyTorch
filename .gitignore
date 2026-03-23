@@ -1,0 +1,5 @@
+﻿*.pth
+*.pt
+result/
+dataset/
+__pycache__/
